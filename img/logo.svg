@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\dell_\Desktop\teraomega\bitmap.png"
-   inkscape:export-xdpi="6.7733335"
-   inkscape:export-ydpi="6.7733335">
+   inkscape:export-filename="C:\Users\dell_\Desktop\project\teraomega\img\favicon.png"
+   inkscape:export-xdpi="7.0678134"
+   inkscape:export-ydpi="7.0678134">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,25 +57,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(12.946644,-23.738037)">
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.76269531;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4933"
-       width="240"
-       height="240"
-       x="-12.946644"
-       y="23.738039" />
     <path
        style="fill:#555d50;fill-opacity:1;stroke:none;stroke-width:0.25799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 222.05377,233.73801 v 25.00003 h -102.5002 v -25.00003 z"
        id="path4680-2"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#f0ffff;fill-opacity:1;stroke:none;stroke-width:0.25799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#555d50;fill-opacity:1;stroke:none;stroke-width:0.25799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 119.55357,29.618144 a 99.999898,100 0 0 1 87.50008,99.120056 99.999898,100 0 0 1 -33.985,75.00008 h 48.98512 v 25.00004 H 119.55357 V 202.67685 A 74.999924,75.000001 0 0 0 182.05363,128.7382 74.999924,75.000001 0 0 0 119.55357,54.799554 Z"
        id="path10-2"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#f0ffff;fill-opacity:1;stroke:none;stroke-width:0.25799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#555d50;fill-opacity:1;stroke:none;stroke-width:0.25799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 94.553556,233.73801 v 25.00003 h -102.5002 v -25.00003 z"
        id="path4685-0"
        inkscape:connector-curvature="0" />
