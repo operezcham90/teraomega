@@ -17,8 +17,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\dell_\Desktop\project\teraomega\img\favicon.png"
-   inkscape:export-xdpi="60.000004"
-   inkscape:export-ydpi="60.000004">
+   inkscape:export-xdpi="239.99977"
+   inkscape:export-ydpi="239.99977">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.6302251"
-     inkscape:cx="134.86699"
-     inkscape:cy="-8.1827458"
+     inkscape:cx="112.57087"
+     inkscape:cy="-8.1827523"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text829"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,19 +55,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-4.4008163,-285.41581)">
+     transform="translate(-1.0143163,-285.41581)">
     <g
        aria-label="TO"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Geometry Soft Pro';-inkscape-font-specification:'Geometry Soft Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text829"
        transform="translate(-4.3884637,-4.8108515)">
       <path
-         d="m 8.78928,293.61333 c 0,1.87325 1.513416,3.38667 3.386666,3.38667 1.87325,0 3.386667,-1.51342 3.386667,-3.38667 0,-1.87325 -1.513417,-3.38667 -3.386667,-3.38667 -1.87325,0 -3.386666,1.51342 -3.386666,3.38667 z m 1.354666,0 c 0,-1.12183 0.910167,-2.032 2.032,-2.032 1.121834,0 2.032,0.91017 2.032,2.032 0,1.12183 -0.910166,2.032 -2.032,2.032 -1.121833,0 -2.032,-0.91017 -2.032,-2.032 z"
-         style="fill:#808080;stroke-width:0.26458332"
+         d="m 5.40278,293.61333 c 0,1.87325 1.513416,3.38667 3.386666,3.38667 1.87325,0 3.386667,-1.51342 3.386667,-3.38667 0,-1.87325 -1.513417,-3.38667 -3.386667,-3.38667 -1.87325,0 -3.386666,1.51342 -3.386666,3.38667 z m 1.354666,0 c 0,-1.12183 0.910167,-2.032 2.032,-2.032 1.121834,0 2.032,0.91017 2.032,2.032 0,1.12183 -0.910166,2.032 -2.032,2.032 -1.121833,0 -2.032,-0.91017 -2.032,-2.032 z"
+         style="fill:#cccccc;stroke-width:0.26458332"
          id="path852"
          inkscape:connector-curvature="0" />
       <path
-         d="m 11.509947,296.32266 c 0,0.37042 0.306917,0.67734 0.677333,0.67734 0.370417,0 0.677334,-0.30692 0.677334,-0.67734 v -4.74133 h 1.693333 c 0.370417,0 0.677333,-0.30692 0.677333,-0.67733 0,-0.37042 -0.306916,-0.67734 -0.677333,-0.67734 H 9.816614 c -0.370417,0 -0.677334,0.30692 -0.677334,0.67734 0,0.37041 0.306917,0.67733 0.677334,0.67733 h 1.693333 z"
+         d="m 8.111947,296.32266 c 0,0.37042 0.306917,0.67734 0.677333,0.67734 0.370417,0 0.677334,-0.30692 0.677334,-0.67734 v -4.74133 h 1.693333 c 0.370417,0 0.677333,-0.30692 0.677333,-0.67733 0,-0.37042 -0.306916,-0.67734 -0.677333,-0.67734 H 6.418614 c -0.370417,0 -0.677334,0.30692 -0.677334,0.67734 0,0.37041 0.306917,0.67733 0.677334,0.67733 h 1.693333 z"
          style="stroke-width:0.26458332"
          id="path850"
          inkscape:connector-curvature="0" />
