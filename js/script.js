@@ -1,16 +1,11 @@
-var clock = new Vue({
-    el: '#clock',
-    data: {
-        hide: false,
-        hours: '00',
-        minutes: '00',
-        seconds: '00'
-    }
-});
+var clock = $('#clock');
 function tick() {
+    var time = '';
     var date = new Date();
-    clock.data.hours = '0' + date.getHours();
-    clock.data.minutes = '0' + date.getMinutes();
-    clock.data.seconds = '0' + date.getSeconds();
+    time += date.getHours().toString().padStart(2, '0') + ':';
+    time += date.getMinutes().toString().padStart(2, '0') + ':';
+    time += date.getSeconds().toString().padStart(2, '0');
+    clock.text(time);
 }
-setTimeout(tick, 1000);
+setInterval(tick, 1000);
+tick();

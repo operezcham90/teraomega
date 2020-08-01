@@ -20,15 +20,11 @@
             </a>
         </div>
     </nav>
-    <div class="container">
-        <div id="clock" class="d-none" v-bind:class="{ d-none: hide }">
-            <p>
-                {{ hours }}:{{ minutes }}:{{ seconds }}
-            </p>
-        </div>
+    <div class="container mt-3">
+        <div id="clock"></div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/vue"
-        integrity="sha384-OZmxTjkv7EQo5XDMPAmIkkvywVeXw59YyYh6zq8UKfkbor13jS+5p8qMTBSA1q+F"
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2"
         crossorigin="anonymous"></script>
     <script src="js/script.js"></script>
 </body>
