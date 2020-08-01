@@ -8,7 +8,7 @@ var clock = new Vue({
     }
 });
 function tick() {
-    var date = Date.now();
+    var date = new Date();
     clock.data.hours = '0' + date.getHours();
     clock.data.minutes = '0' + date.getMinutes();
     clock.data.seconds = '0' + date.getSeconds();
